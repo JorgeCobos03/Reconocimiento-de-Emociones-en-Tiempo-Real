@@ -33,6 +33,7 @@ Este proyecto implementa un sistema para la detección de emociones faciales uti
 
 - **Python 3.8 o superior**
 - **Bibliotecas necesarias**:
+- **Camara Web HD (720p+)
   - `mediapipe`
   - `opencv-python`
   - `numpy`
